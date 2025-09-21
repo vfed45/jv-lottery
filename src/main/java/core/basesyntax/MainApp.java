@@ -9,6 +9,6 @@ public class MainApp {
 
         System.out.println(ball1);
         System.out.println(ball2);
-        System.out.println(ball3);// create three balls using class Lottery and print information about them in console
+        System.out.println(ball3);
     }
 }
